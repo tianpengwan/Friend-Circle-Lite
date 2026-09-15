@@ -10,7 +10,7 @@ debug: false
 #   article_count: 每个站点最多抓取的文章数量
 spider_settings:
   enable: true
-  json_url: "https://github.com/tianpengwan/Action-Scrtipt-library/blob/main/friends.json"
+  json_url: "https://raw.githubusercontent.com/tianpengwan/Action-Scrtipt-library/refs/heads/main/friends.json"
   article_count: 5
 
 # 代理配置
